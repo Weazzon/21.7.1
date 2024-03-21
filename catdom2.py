@@ -11,6 +11,6 @@ print("Age first cat: ", Cat1.age)
 print("----------------")
 
 
-print("Name second cat: ", Cat2.CatName())
-print("Gender second cat: ", Cat2.CatGender())
-print("Age second cat: ", Cat2.CatAge())
+print("Name second cat: ", Cat2.cat_name())
+print("Gender second cat: ", Cat2.cat_gender())
+print("Age second cat: ", Cat2.cat_age())
